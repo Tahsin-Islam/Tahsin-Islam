@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My name is Tahsin Islam and I am a Software Engineering student at Concordia University. I am open to learning new tools and technologies and I am passionate about front-end, full-stack, and mobile development.
+
+Here are some fun facts about me:
+- 🔭 I’m currently working on a delivery service application
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me: tahsin_islam2003@outlook.com
