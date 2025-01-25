@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 # My name is Tahsin Islam and I am a Software Engineering student at Concordia University. I am open to learning new tools and technologies and I am passionate about front-end, full-stack, and mobile development.
 
 Here are some fun facts about me:
-- 🔭 I’m currently working on a delivery service application
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on a campus guide mobile application
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: tahsin_islam2003@outlook.com
