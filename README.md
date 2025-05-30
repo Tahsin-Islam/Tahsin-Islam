@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 Here are some fun facts about me:
 - 🔭 I’m currently working on a campus guide mobile application
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: tahsin_islam2003@outlook.com
