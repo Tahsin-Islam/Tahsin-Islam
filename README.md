@@ -1,22 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Tahsin Islam</h1>
 
-<!--
-**Tahsin-Islam/Tahsin-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Software Engineering Student @ <strong>Concordia University</strong><br>
+  Passionate about Front-End, Full-Stack & Mobile Development</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
 
-# My name is Tahsin Islam and I am a Software Engineering student at Concordia University. I am open to learning new tools and technologies and I am passionate about front-end, full-stack, and mobile development.
+- 🎓 Pursuing a **Bachelor of Engineering in Software Engineering** at Concordia University (2022–2026)
+- 💼 Recently interned at **Air Canada (Cybersecurity)** and **Sun Life Financial (Mobile Developer)**
+- 🌱 Currently learning **TypeScript** and sharpening my full-stack development skills
+- 💬 I love building intuitive, impactful user experiences and exploring new technologies
+- 🧠 Passionate about mobile dev, accessibility, design systems, and agile collaboration
 
-Here are some fun facts about me:
-- 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: tahsin_islam2003@outlook.com
+---
+
+### 🛠️ Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🧪 Recent Projects
+
+- **CU Explorer (Flutter/Dart)** – Campus navigation app with route rendering, Google auth UI, and 87% test coverage
+- **Wheels Up (React + Flask)** – Full-stack delivery service app using design patterns and system architecture
+- **RareQuest (React)** – Hackathon finalist; intuitive awareness platform for RQMO (2nd place out of 150+ teams)
+- **Urban Utopia (React + Django)** – Real estate web platform with CRUD, user roles, and MWC architecture
+
+---
+
+### 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tahsin-islam16/)
+- 💻 [GitHub](https://github.com/Tahsin-Islam)
+- 📧 tahsin_islam2003@outlook.com
+
+---
+
+### 😄 Fun Facts
+
+- 🐱 Cat person who enjoys learning through doing
+- 🎮 Into sci-fi, board games, and creative brainstorming
+- 🧩 Always on the lookout for the next cool project or hackathon
