@@ -10,8 +10,8 @@
 ### 🚀 About Me
 
 - 🎓 Pursuing a **Bachelor of Engineering in Software Engineering** at Concordia University (2022–2026)
-- 💼 Recently interned at **Air Canada (Cybersecurity)** and **Sun Life Financial (Mobile Developer)**
-- 🌱 Currently learning **TypeScript** and sharpening my full-stack development skills
+- 💼 Currently interning at Plusgrade as a Web Integrator, and previously at Air Canada (Cybersecurity) and Sun Life Financial (Mobile Development)
+- - 🌱 Currently learning **TypeScript** and sharpening my full-stack development skills
 - 💬 I love building intuitive, impactful user experiences and exploring new technologies
 - 🧠 Passionate about mobile dev, accessibility, design systems, and agile collaboration
 
