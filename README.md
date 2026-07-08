@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Tahsin Islam</h1>
 
 <p align="center">
-  <em>Software Engineering Student @ <strong>Concordia University</strong><br>
+  <em>SWE Grad @ <strong>Concordia University</strong><br>
   Passionate about Front-End, Full-Stack & Mobile Development</em>
 </p>
 
@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing a **Bachelor of Engineering in Software Engineering** at Concordia University (2022–2026)
-- 💼 Currently interning at Plusgrade as a Web Integrator, and previously at Air Canada (Cybersecurity) and Sun Life Financial (Mobile Development)
-- 🌱 Currently learning **TypeScript** and sharpening my full-stack development skills
+- 🎓 Pursued a **Bachelor of Engineering in Software Engineering** at Concordia University (2022–2026)
+- 💼 Currently working at Plusgrade as a Web Integrator, and previously at Air Canada (Cybersecurity) and Sun Life Financial (Mobile Development)
+- 🌱 Currently learning **Spring Boot** and sharpening my full-stack development skills
 - 💬 I love building intuitive, impactful user experiences and exploring new technologies
 - 🧠 Passionate about mobile dev, accessibility, design systems, and agile collaboration
 
